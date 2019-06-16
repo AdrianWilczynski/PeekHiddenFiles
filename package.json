@@ -4,7 +4,7 @@
 	"description": "Toggle visibility of excluded files.",
 	"publisher": "adrianwilczynski",
 	"icon": "img/icon.png",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.35.0"
 	},
