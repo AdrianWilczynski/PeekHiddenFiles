@@ -11,6 +11,15 @@
 	"categories": [
 		"Other"
 	],
+	"keywords": [
+		"Exclude",
+		"Excluded",
+		"Hidden",
+		"Hide",
+		"Show",
+		"Toggle",
+		"Visibility"
+	],
 	"activationEvents": [
 		"onCommand:extension.hideFiles",
 		"onCommand:extension.showFiles",
