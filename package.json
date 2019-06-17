@@ -3,6 +3,10 @@
 	"displayName": "Peek Hidden Files",
 	"description": "Toggle visibility of excluded files.",
 	"publisher": "adrianwilczynski",
+	"repository": {
+		"url": "https://github.com/AdrianWilczynski/PeekHiddenFiles.git",
+		"type": "git"
+	},
 	"icon": "img/icon.png",
 	"version": "1.0.1",
 	"engines": {
